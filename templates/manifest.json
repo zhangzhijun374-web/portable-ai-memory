@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "archive_name": "personal-ai-memory",
+  "created_at": "YYYY-MM-DD",
+  "updated_at": "YYYY-MM-DD",
+  "language": "en",
+  "files": [
+    {
+      "path": "profile.md",
+      "type": "profile",
+      "description": "Stable user context",
+      "last_verified": "YYYY-MM-DD"
+    },
+    {
+      "path": "projects/example-project.md",
+      "type": "project",
+      "description": "Project context and status",
+      "last_verified": "YYYY-MM-DD"
+    }
+  ]
+}
